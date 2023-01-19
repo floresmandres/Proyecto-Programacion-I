@@ -47,7 +47,7 @@ else:
     
         else : 
             s = str(seed_squared)
-            central_numbers = s [1:5]
+            central_numbers = s [2:4]
             central_numbers_int = int (central_numbers)
             random_number = central_numbers_int / 10000
             corridas = corridas - 1
